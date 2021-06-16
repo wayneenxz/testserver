@@ -1,3 +1,6 @@
+{
+  "events":
+[
         {
           coin: "Bitcoin",
           price: 37000,
@@ -13,3 +16,6 @@
           price: 37000,
           exchange: "Binance",
         }
+      ]
+
+}

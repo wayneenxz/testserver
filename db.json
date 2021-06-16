@@ -1,21 +1,20 @@
 {
   "events":
-[
-        {
-          coin: "Bitcoin",
-          price: 37000,
-          exchange: "Binance",
-        },
-        {
-          coin: "Ethereum",
-          price: 2500,
-          exchange: "Binance",
-        },
-        {
-          coin: "BNB",
-          price: 37000,
-          exchange: "Binance",
-        }
-      ]
-
+  [
+    {
+      coin: "Bitcoin",
+      price: 37000,
+      exchange: "Binance",
+    },
+    {
+      coin: "Ethereum",
+      price: 2500,
+      exchange: "Binance",
+    },
+    {
+      coin: "BNB",
+      price: 37000,
+      exchange: "Binance",
+    }
+  ]
 }
